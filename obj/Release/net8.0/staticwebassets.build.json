@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3CJRfpLaE4JU6dgVMUU6WswqzFwBTUFYiFMsXXUr3OM=",
+  "Source": "SqlAgentApi",
+  "BasePath": "_content/SqlAgentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
