@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlAgentApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9614549d6155682568a2e0bbf40ffb07fe389a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlAgentApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlAgentApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
